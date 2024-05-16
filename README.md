@@ -1,18 +1,6 @@
----
-name: SeoI Hong
-header:
-  - text: <span class="iconify" data-icon="tabler:phone"></span> 010-7237-1928
-  - text: <span class="iconify" data-icon="tabler:mail"></span> hongchaenui@gmail.com
-    link: mailto:hongchaenui@gmail.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> hongseoi
-    link: https://github.com/hongseoi
-  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> hongseoi
-    link: https://www.linkedin.com/in/%EC%84%9C%EC%9D%B4-%ED%99%8D-a612a7258/
-  - text: <span class="iconify" data-icon="charm:person"></span> blog
-    link: https://itmaster98.tistory.com/
-  - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Dongguk University, Seoul, Korea
-    newLine: true
----
+# SeoI Hong
+[Email](hongchaenui@gmail.com) &emsp; [GitHub](https://github.com/hongseoi) &emsp;[LinkedIn](https://www.linkedin.com/in/%EC%84%9C%EC%9D%B4-%ED%99%8D-a612a7258/) &emsp;[Blog](https://itmaster98.tistory.com/)
+
 
 ## Research Interests
 - Sound Data Processing, Natural Language Processing, Large Language Model
